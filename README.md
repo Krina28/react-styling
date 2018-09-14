@@ -11,3 +11,8 @@ This project was bootstrapped with create-react-app.
 ```sh
 npm install
 ```
+## Starting Project
+
+```sh
+npm start
+```
